@@ -1,0 +1,3 @@
+prettytable
+mysql-connector-python
+customtkinter
